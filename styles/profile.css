@@ -11,7 +11,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: url('../assets/images/dash-background.jpg');
+    background: url('/dash-background.jpg');
+    /* background: url('../assets/images/dash-background.jpg'); */
     background-attachment: fixed;
     background-position: center;
     background-repeat: none;
